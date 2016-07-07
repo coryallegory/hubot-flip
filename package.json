@@ -1,0 +1,26 @@
+{
+  "name": "hubot-flip",
+  "description": "A Hubot script for flipping things",
+  "version": "2.17.1",
+  "homepage": "https://github.com/coryallegory/hubot-flip",
+  "author": "coryallegory (https://github.com/coryallegory)",
+  "license": "MIT",
+  
+  "keywords": [
+    "hubot",
+    "hubot-scripts",
+    "hubot-flip",
+    "flip"
+  ],
+  
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/coryallegory/hubot-flip.git"
+  },
+  
+  "dependencies": {
+    "flip": "~1.0.0"
+  },
+  
+  "main": "./hubot-flip"
+}
